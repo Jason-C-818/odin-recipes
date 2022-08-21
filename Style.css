@@ -1,0 +1,36 @@
+body {
+   
+   color: silver;
+   font-family: 'Times New Roman', Times, serif;
+   background-color: black;
+
+}
+
+h1{
+   color: silver;
+   
+}
+
+div {
+   color: silver;
+   font-size: 20px;
+   position: absolute;
+   right: 30px;
+   left: 50px;
+   top: 60px;
+
+   
+   
+   
+   
+}
+
+
+img{
+   height: 100px;
+   width: 200px; 
+   position: absolute;
+   right: 10px;
+   top: 10px;
+  
+}
